@@ -11,6 +11,6 @@ y unicamente usando Bootstrap, MySql.
 :arrow_right: Prof. Yesi Days
 
 
-[PHP]: /PHP.png
-[Bootstrap]: /Boostrap.jpg
-[mysql]: /mysql.jpg
+[PHP]: /img/PHP.png
+[Bootstrap]: /img/Boostrap.jpg
+[mysql]: /img/mysql.jpg
